@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservelete",
+        "uuid": 3343560,
+        "checksum": "2a032o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
